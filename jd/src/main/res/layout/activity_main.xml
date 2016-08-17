@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="我要转入(元)"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:layout_marginBottom="8dp"
+            android:textColor="#fe7f1a"/>
+        <TextView
+            android:id="@+id/tv_value"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:gravity="center"
+            android:textColor="#fe7f1a"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:gravity="center_horizontal|bottom"
+            android:layout_height="wrap_content"
+            android:textColor="#fe7f1a"
+            android:text="- - - - - - - - - - - - "/>
+        <com.example.jd.ScaleMoney
+            android:id="@+id/sm_view"
+            android:layout_marginTop="-8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp" />
+    </LinearLayout>
+</RelativeLayout>

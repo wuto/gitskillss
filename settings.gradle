@@ -1,0 +1,1 @@
+include ':app', ':imooc_wuziqi', ':aiwuziqi', ':computerwuziqi', ':jd', ':gallery_qq'

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aiwuziqi/aiwuziqi.iml" filepath="$PROJECT_DIR$/aiwuziqi/aiwuziqi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/computerwuziqi/computerwuziqi.iml" filepath="$PROJECT_DIR$/computerwuziqi/computerwuziqi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gallery_qq/gallery_qq.iml" filepath="$PROJECT_DIR$/gallery_qq/gallery_qq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_wuziqi/imooc_wuziqi.iml" filepath="$PROJECT_DIR$/imooc_wuziqi/imooc_wuziqi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd/jd.iml" filepath="$PROJECT_DIR$/jd/jd.iml" />
+    </modules>
+  </component>
+</project>
