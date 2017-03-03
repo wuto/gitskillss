@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         mWuziqiPanel= (WuziqiPanel) findViewById(R.id.id_wuziqi);
     }
 
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
 
